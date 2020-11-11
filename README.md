@@ -11,12 +11,14 @@
 
     2. KERAS
 
-    3. Python
+    3. Python Programming 
 
--> GUI
+-> GUI:
+
      Tkinter
      
  ## Platform :
+
     Jupyter Notebook
     
  ## Features :
